@@ -5537,7 +5537,7 @@ find-up@^3.0.0:
   dependencies:
     locate-path "^3.0.0"
 
-firebase-auth@^9.0.0:
+firebase-auth@^0.1.2:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/firebase-auth/-/firebase-auth-0.1.2.tgz#de62ff456f649275fc4377e57e7e57bf1dc653e4"
   integrity sha1-3mL/RW9kknX8Q3flfn5Xvx3GU+Q=
